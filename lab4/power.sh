@@ -26,5 +26,4 @@ then
 		c=$((c + 1))
 	done
 fi
-
 echo "$num to the power $pow is $res"
