@@ -1,6 +1,5 @@
 #! /bin/sh
 #check whether no is positive, negative or zero
-
 echo "enter a number:"
 read a
 
